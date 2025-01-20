@@ -1,0 +1,1 @@
+module vk_internship_go_2025
